@@ -1,0 +1,63 @@
+{
+	"blocks": [
+		{
+			"type": "image",
+			"image_url": "https://github.com/johnchen77w/images/blob/main/A7B07435-5-Enhanced-NR.jpg?raw=true",
+			"alt_text": "Exciting Moments!!!"
+		},
+		{
+			"type": "header",
+			"text": {
+				"type": "plain_text",
+				"text": "📸 Exciting Moments!!!",
+				"emoji": true
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "I had the fantastic opportunity to be the photographer at the Generative AI - Transforming How Business Works showcase at the IBM Canada Lab in Markham, ON! Key speakers, <@W53PX8N94>, <@W6Y6HM133> and <@W53P7KXT8> kicked off the session with insightful remarks that set the stage for an enlightening demo session. It was a privilege to capture the enthusiasm and engagement as everyone explored the technologies poised to revolutionize industries through amazing demos and showcases."
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "*_Click the button below to see the highlights!!_*"
+			}
+		},
+		{
+			"type": "actions",
+			"elements": [
+				{
+					"type": "button",
+					"text": {
+						"type": "plain_text",
+						"text": "EVENT HIGHLIGHTS",
+						"emoji": true
+					},
+					"value": "click_me_123",
+					"style": "primary",
+					"url": "https://ibm.box.com/s/4q5ccgdpoh7lq6sszscwagoqg9mixp2g",
+					"action_id": "actionId-0"
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "context",
+			"elements": [
+				{
+					"type": "mrkdwn",
+					"text": "Please kindly tag <@W013K7H3EF2> when reposting, thanks! :)"
+				}
+			]
+		}
+	]
+}
